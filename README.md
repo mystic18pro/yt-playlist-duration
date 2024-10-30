@@ -1,5 +1,6 @@
 # YouTube Playlist Duration 
 ---
+![](https://img.shields.io/badge/version-1.1.1-blue)
 ## To build the program Yourself
 
 ### Step 1: Clone this repository.
